@@ -1,0 +1,20 @@
+package addMinus;
+
+public class Exercise1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("1.Wake up at 7:00 a.m.,using 30 minutes to bath and brush teeth");
+		System.out.println("2.Eating breakfast at 7:30 a.m.");
+		System.out.println("3.Workout at 8:00 a.m.");
+		System.out.println("4.Do preparation for the class today");
+		System.out.println("5.Follow the class arcoding timetable(Normally class until 4:00p.m./5:30p.m.");
+		System.out.println("6.Rest time");
+		System.out.println("7.After dinner start do excercise & revision for the class today");
+		System.out.println("8.Start learning and do excercise about programming work at about 8:00 p.m.");
+		System.out.println("9.Free & Easy time");
+		System.out.println("10.Revision before sleep");
+		
+	}
+
+}
